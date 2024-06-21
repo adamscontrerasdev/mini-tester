@@ -1,0 +1,17 @@
+{
+  "name": "automation-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^126.0.2",
+    "puppeteer": "^22.11.2",
+    "selenium-webdriver": "^4.22.0"
+  }
+}
